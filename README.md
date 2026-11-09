@@ -8,10 +8,14 @@
 
 ### Same old [Mihon](https://github.com/mihonapp/mihon) but with a new, refreshed UI
 
+</div>
+
 > [!IMPORTANT]
 > I am a complete beginner in Kotlin and Jetpack Compose.
 > This is a personal project I am working on because I was bored of the old UI of Mihon and every other popular fork I am using.
 > I am using this project as an opportunity to learn while slowly working on an actual project.
+
+<div align="center">
 
 ### Disclaimer
 
