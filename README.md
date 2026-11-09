@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mihon.app">
-    <img src="./.github/assets/icon.png" alt="Mihon logo" title="Mihon logo" width="80"/>
+    <img src="./.github/assets/icon.png" alt="MihonRE logo" title="MihonRE logo" width="80"/>
 </a>
 
 # MihonRE
